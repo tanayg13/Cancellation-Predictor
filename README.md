@@ -72,3 +72,7 @@ Imagine a new customer with the following stats:
 * **Python 3**
 * **Pandas:** For data manipulation and loading the CSV.
 * **Scikit-Learn:** For the classification algorithm and accuracy metrics.
+
+## 👤 Author
+Tanay Gupta  
+25BCE10082
